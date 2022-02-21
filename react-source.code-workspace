@@ -1,14 +1,17 @@
 {
-	"folders": [
-		{
-			"path": "jsx"
-		},
-		{
-			"path": "components"
-		},
-		{
-			"path": "seasons"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "path": "jsx"
+    },
+    {
+      "path": "components"
+    },
+    {
+      "path": "seasons"
+    },
+    {
+      "path": "pics"
+    }
+  ],
+  "settings": {}
 }
