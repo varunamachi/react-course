@@ -11,6 +11,9 @@
     },
     {
       "path": "pics"
+    },
+    {
+      "path": "videos"
     }
   ],
   "settings": {}
